@@ -1,0 +1,7 @@
+install drawer
+run home
+go to costco
+buy bananas
+go shopping
+play tennis
+have lunch
